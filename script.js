@@ -15,7 +15,6 @@ const btnRoll = document.querySelector('.btn--roll')
 const btnHold = document.querySelector('.btn--hold')
 
 // Condições criadas fora do escopo da função init, e reatribuidas na função init
-
 let scores, currentScore, activePlayer, playing
 
 const init = function () {
