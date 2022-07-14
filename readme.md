@@ -22,7 +22,7 @@ O maior desafio desse projeto foi a manipulação da DOM(document object model),
 ### Video
 
 <div style="display: inline-block"  align="center"><br>
-      <img height="400em" src="/assets/.gif" align="center" alt="pig game" >
+      <img height="400em" src="/assets/pig-game.gif" align="center" alt="pig game" >
     <br><br>
 </div>
 
