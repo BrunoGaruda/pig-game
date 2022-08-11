@@ -13,11 +13,11 @@
 
 ## Projeto
 
-Esse projeto consiste em criar uma jogo "PIG GAME" onde o usuário irá tentar somar pontos com uma rolagem de dados mas com o risco de ao tirar 1 em um dado de 6 lados, automaticamente será passado para o próximo jogador e perdendo seus pontos, seria uma jogada de sorte em armazenar ou arriscar novamente. O botão _NEW GAME_ irá restabelecer as regras e os resultados iniciais do game.
+Esse projeto consiste em criar um jogo "PIG GAME" onde o usuário irá tentar somar pontos com uma rolagem de dados, mas com o risco de ao tirar 1 em um dado de 6 lados, será automaticamente passado para o próximo jogador e perdendo seus pontos, seria uma jogada de sorte em armazenar ou arriscar novamente. O botão NEW GAME irá restabelecer as regras e os resultados iniciais do game.
 
 ### Desafio
 
-O maior desafio desse projeto foi a manipulação da DOM(document object model), interagindo com o usuário e emitindo textos ou alteração de estilos durante a aplicação. A lógica foi também muito rigorosa pois em todo momento teria que ter condicionais para o desenvolvimento.
+O maior desafio desse projeto foi a manipulação da DOM(document object model), interagindo com o usuário e emitindo textos ou alteração de estilos durante a aplicação. A lógica foi também muito rigorosa, pois em todo momento teria que ter condicionais para o desenvolvimento.
 
 ### Video
 
